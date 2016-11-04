@@ -4,38 +4,27 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="?android:attr/selectableItemBackground"
-    android:padding="16dp">
+    android:padding="8dp">
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="80dp"
-        android:layout_height="80dp"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
         android:scaleType="centerCrop"
-        tools:src="@drawable/a" />
+        android:src="@drawable/a" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:alpha="0.3"
+        android:background="#424242" />
 
     <TextView
         android:id="@+id/textViewJudul"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_toEndOf="@+id/imageView"
-        android:layout_toRightOf="@+id/imageView"
-        android:ellipsize="end"
-        android:maxLines="1"
+        android:layout_height="160dp"
+        android:gravity="center"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"
+        android:textColor="@android:color/white"
         tools:text="Judul" />
-
-    <TextView
-        android:id="@+id/textViewDeskripsi"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/textViewJudul"
-        android:layout_alignStart="@+id/textViewJudul"
-        android:layout_below="@+id/textViewJudul"
-        android:ellipsize="end"
-        android:maxLines="2"
-        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-        tools:text="Deskripsi" />
 </RelativeLayout>

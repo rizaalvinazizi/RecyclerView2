@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1;
+package id.sch.smktelkom_mlg.learn.recyclerview2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

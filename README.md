@@ -1,9 +1,7 @@
 #<p align="center"> RecyclerView2 </p>
 
 ### A. Screenshot
-<br>![Gambar1](https://github.com/rizaalvinazizi1234/AdvancedWidget1/blob/master/AdvancedWidget1.JPG)
-<br>![Gambar2](https://github.com/rizaalvinazizi1234/AdvancedWidget1/blob/master/AdvancedWidget1a.JPG)
-<br>![Gambar3](https://github.com/rizaalvinazizi1234/AdvancedWidget1/blob/master/AdvancedWidget1b.JPG)
+<br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView2/blob/master/2a.PNG)
 
 ### B. Identitas
 <br>Nama : Riza Alvin Azizi

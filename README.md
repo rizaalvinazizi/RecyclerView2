@@ -2,6 +2,7 @@
 
 ### A. Screenshot
 <br>![Gambar1](https://github.com/rizaalvinazizi/RecyclerView2/blob/master/2a.PNG)
+<br>![Gambar2](https://github.com/rizaalvinazizi/RecyclerView2/blob/master/2b.PNG)
 
 ### B. Identitas
 <br>Nama : Riza Alvin Azizi
